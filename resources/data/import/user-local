@@ -1,0 +1,19 @@
+id=1
+firstName=root
+lastName=root
+fullName=root
+email=root
+username=root
+password=root
+role=ROOT
+accessStatus=ENABLED
+-----------------------------
+id=2
+firstName=mehdi
+lastName=Torabi
+fullName=Mehdi Torabi
+email=mehdi
+username=mehdi
+password=mehdi
+role=ROOT
+accessStatus=ENABLED

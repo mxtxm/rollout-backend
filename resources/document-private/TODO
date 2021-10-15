@@ -1,0 +1,11 @@
+rollout:
+insert, update > value={record}
+
+
+معنی فیلدهای زیر در project
+enableRequest;
+enableOverlap;
+maxRequestCount;
+estimateRequestCount;
+
+
